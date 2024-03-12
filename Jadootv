@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title=”Bangla”,Somoy tv
+https://live.jadooiptv.com/allLive/somoy_news/chunks.m3u8
+#EXTINF:-1 group-title=”Bangla”,Nagrik tv
+https://live.jadooiptv.com/allLive/nagorik_tv/chunks.m3u8
+#EXTINF:-1 group-title=”Bangla”,Gaan Bangla
+https://live.jadooiptv.com/allLive/gaan_bangla/chunks.m3u8
+#EXTINF:-1 group-title=”Bangla”,Ekattor tv 
+https://live.jadooiptv.com/allLive/ekattor_tv/chunks.m3u8
