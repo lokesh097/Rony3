@@ -10,7 +10,7 @@ https://live.jadooiptv.com/allLive/gaan_bangla/chunks.m3u8
 https://live.jadooiptv.com/allLive/ekattor_tv/chunks.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney HD
 http://humiptv.live:8080/live/wasim/wasim1234/19741.ts
-#EXTINF:-1 group-title="Movie",Fighter
+#EXTINF:-1 group-title="Hindi Movie",Fighter
 http://103.145.76.250/Data/movies/bollywood/2023/Mast%20Mein%20Rehne%20Ka%20(2023)/Mast%20Mein%20Rehne%20Ka.mp4
-#EXTINF:-1 group-title="Movie",bibaho ovijan
+#EXTINF:-1 group-title="Bangla Movie",bibaho ovijan
 http://103.145.76.250/Data/movies/indianbangla/Bhoy%20(2023)/Bhoy%20(2023).mp4
