@@ -660,6 +660,7 @@ http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/zf6GvgkK/73e25ee55303d44a1a979b090cdf398269af3ad86cb9ecae416acacdcd99d9a8.png",Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CARTOON" Disney channel tata play tvg-logo="http://humiptv.live:8080/live/wasim/wasim1234/19741.ts
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png",AB MASTII
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
