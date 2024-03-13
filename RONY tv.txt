@@ -1064,9 +1064,3 @@ https://stream-152.zeno.fm/cwa3vg8s8druv?zs=Gn24iHyWT3Omxri1VtA3oQ
 
 
 #EXTM3U
-
-
-EXTNIF:-1 group-title="Hindi Movie",Aazam
-http://server1.dhakamovie.com/Movies/Bollywood/2023/Aazam%20(2023)/Aazam%20(2023).mp4
-
-
