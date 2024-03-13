@@ -1082,6 +1082,5 @@ http://103.145.76.250/Data/movies/bollywood/2023/Animal%20%282023%29/Animal.mp4
 
 #EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt13818368/poster//zDZowwb9GZGEctAu2PCpjiPQAMM.jpg" group-title="𝙷𝚒𝚗𝚍𝚒 𝙼𝚘𝚟𝚒𝚎’𝚜",Fighter (2024)
 http://103.145.76.250/Data/movies/bollywood/2024/Fighter%20(2024)/Fighter.mp4
-#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo=http://golmal.net//Admin/main/images/tt7892066/poster//8nryykQqfU7yqTz4FD7uEBjseZp.jpg" group-title="Hindi
-Movie's"Ayalaan (2024)
+#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt7892066/poster//8nryykQqfU7yqTz4FD7uEBjseZp.jpg" group-title="Hindi Movie's"Ayalaan (2024)
 http://103.145.76.250/Data/movies/hindidub/Ayalaan%20(2024)/Ayalaan.mp4
