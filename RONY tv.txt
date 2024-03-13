@@ -1066,22 +1066,26 @@ https://stream-152.zeno.fm/cwa3vg8s8druv?zs=Gn24iHyWT3Omxri1VtA3oQ
 #EXTM3U
 
 
-#EXTINF:- group-title= "RONY HINDI MOVIES"
+#EXTINF:- group-title= "RONY HINDI MOVIES "
 
-#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt27936770/poster//tHTxBsRLquFUZ4KTWzUalK4EDZW.jpg" group-title="𝙷𝚒𝚗𝚍𝚒 𝙼𝚘𝚟𝚒𝚎’𝚜",Bhakshak (2024)
+#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt27936770/poster//tHTxBsRLquFUZ4KTWzUalK4EDZW.jpg" group-title="Hindi Movie's",Bhakshak (2024)
 http://103.145.76.250/Data/movies/bollywood/2024/Bhakshak%20(2024)/Bhakshak.mp4
 
-#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt15428134/poster//kPRb1mbVHGop0egQ7153y0lhzGL.jpg" group-title="𝙷𝚒𝚗𝚍𝚒 𝙼𝚘𝚟𝚒𝚎’𝚜",Dunki (2023)
+#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt15428134/poster//kPRb1mbVHGop0egQ7153y0lhzGL.jpg" group-title="Hindi
+Movie's",Dunki (2023)
 http://103.145.76.250/Data/movies/bollywood/2024/Dunki%20(2023)/Dunki.mp4
 
-#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt31171944/poster//qvC36WiMHg3WPhGTyb8E1SWaW0Y.jpg" group-title="𝙷𝚒𝚗𝚍𝚒 𝙼𝚘𝚟𝚒𝚎’𝚜",Lantrani (2024)
+#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt31171944/poster//qvC36WiMHg3WPhGTyb8E1SWaW0Y.jpg" group-title="Hindi Movie's",Lantrani (2024)
 http://103.145.76.250/Data/movies/bollywood/2024/Lantrani%20(2024)/Lantrani.mp4
 
-#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt13751694/poster//hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg" group-title="𝙷𝚒𝚗𝚍𝚒 𝙼𝚘𝚟𝚒𝚎’𝚜",Animal (2023)
+#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt13751694/poster//hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg" group-title="Hindi Movie's",Animal (2023)
 http://103.145.76.250/Data/movies/bollywood/2023/Animal%20%282023%29/Animal.mp4
 
-#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt13818368/poster//zDZowwb9GZGEctAu2PCpjiPQAMM.jpg" group-title="𝙷𝚒𝚗𝚍𝚒 𝙼𝚘𝚟𝚒𝚎’𝚜",Fighter (2024)
+#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt13818368/poster//zDZowwb9GZGEctAu2PCpjiPQAMM.jpg" group-title="Hindi Movie's",Fighter (2024)
 http://103.145.76.250/Data/movies/bollywood/2024/Fighter%20(2024)/Fighter.mp4
 
-#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt13927994/poster//bnVmFvn4f2FC2Ja00BApnz9Cmz9.jpg" group-title="𝙷𝚒𝚗𝚍𝚒 𝙼𝚘𝚟𝚒𝚎’𝚜",Salaar (2023)
+#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt13927994/poster//bnVmFvn4f2FC2Ja00BApnz9Cmz9.jpg" group-title="Hindi Movie's",Salaar (2023)
 http://103.145.76.250/Data/movies/hindidub/Salaar%20(2023)/Salaar.mp4
+
+#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://dhakamovie.com/Admin/main/images/tt22932536/poster/9IdjgWe7XzSHflYWfIVTiZyDDYT.jpg" group-titlr="Hindi Movie's"Aazam (2023)
+http://server1.dhakamovie.com/Movies/Bollywood/2023/Aazam%20(2023)/Aazam%20(2023).mp4
