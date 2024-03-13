@@ -1090,5 +1090,4 @@ http://103.145.76.250/Data/movies/bollywood/2024/Fighter%20(2024)/Fighter.mp4
 #EXTINF:- group-title= "RONY TAMIL MOVIES"
 
 
-#EXTINF:-1tvg-id="(no tvg-id)" tvg-logo="http://golmal.net//Admin/main/images/tt7892066/poster//8nryykQqfU7yqTz4FD7uEBjseZp.jpg" group-title="Tamil Movie's"Ayalaan (2024)
-http://103.145.76.250/Data/movies/hindidub/Ayalaan%20(2024)/Ayalaan.mp4
+#EXTINF:-1 http://103.145.76.250/Data/movies/hindidub/Ayalaan%20(2024)/Ayalaan.mp4
