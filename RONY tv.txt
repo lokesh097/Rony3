@@ -1064,7 +1064,5 @@ https://stream-152.zeno.fm/cwa3vg8s8druv?zs=Gn24iHyWT3Omxri1VtA3oQ
 #EXTM3U
 
 
-#EXTINF:-1 group-title=”RONY MOVIES”
-
-#EXTINF:-1 group-title=”RONY MOVIES”,http://dhakamovie.com/Admin/main/images/tt22932536/poster/9IdjgWe7XzSHflYWfIVTiZyDDYT.jpg,Aazam (2023)
+#EXTINF:-1 group-title="RONY MOVIES" tvg-logo="https://i.postimg.cc/C51HfLNC/images-6-2.jpg",Aazam(2023)
 http://server1.dhakamovie.com/Movies/Bollywood/2023/Aazam%20(2023)/Aazam%20(2023).mp4
