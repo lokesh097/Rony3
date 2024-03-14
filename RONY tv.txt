@@ -113,10 +113,6 @@ http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
 http://tvcdn.hoichoi24.com:8083/1102/tracks-v1a1/mono.m3u8?token=27866cf1ca71473d5138047226938184e8e2770f-bcf35d6704a1eb5b7b68dbe970a7a453-1710401838-1710398238
-https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=19&e=.m3u8|User-Agent=test69
-http://xtv.ooo:8080/564587696/474585694/245901
-https://test.bongodrive.pw/bdix.m3u8?ac=1102
-http://opplex.tv:8080/live/12001200/12001200/245901.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
 http://xtv.ooo:8080/8777877/8777777/167590
 http://103.142.80.22:8080/Channel-2/index.m3u8
