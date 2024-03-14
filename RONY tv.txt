@@ -1071,4 +1071,5 @@ http://server1.dhakamovie.com/Movies/Bollywood/2023/Aazam%20(2023)/Aazam%20(2023
 
 
 #EXTINF:-1 group-title="Anime"Naruto (2002)
-https://cdn.globalcdn13.one/21413613/84267045/65536/107
+
+https://hls13-eu.zcdn.stream/1857f386c8ed5a34a807be2a2df08982/2023-02-27/video.m3u8
