@@ -615,9 +615,9 @@ https://sadman0.000webhostapp.com/o/hoichoi.m3u8?id=1305
 http://xtv.ooo:8080/live/T4S00515/820172/150482.ts
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co/Dt71mFD/Picsart-23-06-09-15-48-44-052.png",GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sonic
-http://startv365.com/9794783213/6955630461/400159478
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sonic Hindi
+http://startv365.com/9794783213/6955630461/400159478
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sonic Bangla
 https://api.bongohub.pw/api/bio.php?ac=sonic
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/bqz9EXY.png",WOW Kids
 http://195.26.87.217/live.ts?channelId=91169&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -660,7 +660,7 @@ http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/zf6GvgkK/73e25ee55303d44a1a979b090cdf398269af3ad86cb9ecae416acacdcd99d9a8.png",Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney HD
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney HD (Backup)
 http://humiptv.live:8080/live/wasim/wasim1234/19741.ts
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png",AB MASTII
@@ -1067,6 +1067,4 @@ https://stream-152.zeno.fm/cwa3vg8s8druv?zs=Gn24iHyWT3Omxri1VtA3oQ
 #EXTM3U
 
 
-EXTINF:-1 group-title=”MOVIES”,Aazam
-http://server1.dhakamovie.com/Movies/Bollywood/2023/Aazam%20(2023)/Aazam%20(2023).mp4
-
+EXTINF:-1 group-title=”MOVIES”,http://server1.dhakamovie.com/Movies/Bollywood/2023/Aazam%20(2023)/Aazam%20(2023).mp4
