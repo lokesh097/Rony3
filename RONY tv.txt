@@ -586,7 +586,7 @@ https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
 http://103.131.214.129:9985/stream/channelid/952379108?ticket=F9788485A4BE9B20D5C2BB2A9C176B113D6E8AB6&profile=pass
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/tJT6S0Nz/images-1-10.png",Disney Juniur
 http://abcnew.site:8880/live/3ca7043n04/asfde32e2/59239.ts
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/YTfbaxj.png",Nickelodeon 
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHmjZ6y02kgFwJAtBPRk3iqJIF2BaGnaYbKw&usqp=CAU",Nickelodeon 
 http://195.26.87.217/live.ts?channelId=254&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/xbQSPP3.png",Discovery Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
