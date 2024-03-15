@@ -660,6 +660,10 @@ http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney HD (Backup)
 http://humiptv.live:8080/live/wasim/wasim1234/19741.ts
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney HD (SD)
+http://lb2.motobd2.xyz:8080/live/Farabi43/96965/3360.m3u8?token=TRAOWEBQQAIaBlcFAFNVVQYGWlsDUQZcBVMNWAhRCQgOBQJfAV5QDgpHHUFLFhFSVFg9UVERDQsDBgkVE0ZLXERtD10RAkALDVEEWxpOQUNcWAcaDwMbGkBZXRsLEQkMBQZfGx8aB0BMAEMNWQ48U1BDC1tQEQ1WRVxVFRNcVmZSVwtYXVxAAhpVE08aCxBHFw8MTVlfGxpSWU1LUEddGwwQVwsFD0AUGgZeFlYWEU4XD0BtZhEbGlVITVxfQFFWWBBcG14LFwAaSRMKSz0RUkZBEF1UXlJKEgobCRMfGlRXSjlaXFYMXVsRWAxWEUENFwRAFBdeWFZZRFZLbkNRXRQIRA4HD1IaRQ==
+
+
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png",AB MASTII
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
