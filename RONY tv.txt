@@ -661,7 +661,7 @@ https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney HD (Backup)
 http://humiptv.live:8080/live/wasim/wasim1234/19741.ts
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney HD (SD)
-http://lb2.motobd2.xyz:8080/live/Farabi43/96965/3360.m3u8?token=TRAOWEBQQAIaBlcFAFNVVQYGWlsDUQZcBVMNWAhRCQgOBQJfAV5QDgpHHUFLFhFSVFg9UVERDQsDBgkVE0ZLXERtD10RAkALDVEEWxpOQUNcWAcaDwMbGkBZXRsLEQkMBQZfGx8aB0BMAEMNWQ48U1BDC1tQEQ1WRVxVFRNcVmZSVwtYXVxAAhpVE08aCxBHFw8MTVlfGxpSWU1LUEddGwwQVwsFD0AUGgZeFlYWEU4XD0BtZhEbGlVITVxfQFFWWBBcG14LFwAaSRMKSz0RUkZBEF1UXlJKEgobCRMfGlRXSjlaXFYMXVsRWAxWEUENFwRAFBdeWFZZRFZLbkNRXRQIRA4HD1IaRQ==
+http://xtv.ooo:8080/03155515900TG/03155515900TG/167551
 
 
 
