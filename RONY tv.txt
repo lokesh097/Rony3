@@ -114,7 +114,7 @@ http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
 http://lb2.motobd2.xyz:8080/sajjad30/83837473742/1311?token=TRAOWEBQQAIaB1BXC1pSBAcDAA0MAQELBAZfAVUHWwFUBwcKAgBSCw5HHUFLFhFSVFg9UVERDQkDAQgVE0ZLXERtD10RAkALDFwIVhpOQUNcWAcaDwIACQAECggCBQEVFEIPXRECQA4IVgVBFEAGT0FQEFZUX2hcVUZQWlQRAldDXgoVEVcMZ1wAXAJWBkENFwVAFBdaREgSCldMXV8UG1RbEktSTAcaAkcDVwBbQRsXVg1NW0dFQRIKG3t1ERQbU0oSXF1LC1dWRwtBTBFBGxdcEWdHVkRMQlVYVFRBGgMUAkQVEVUDQGcGXg1WBwBDXFoMSxcJFQkSHBtUXl1RTVlAOUlaXEACGlICVApAHg==
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
-http://xtv.ooo:8080/8777877/8777777/167590
+http://103.107.79.87:8080/CH8106SD02/tracks-v1a1/mono.m3u8
 http://103.142.80.22:8080/Channel-2/index.m3u8
 http://103.142.80.22:8080/t-sports/video.m3u8
 https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=27&e=.m3u8|User-Agent=test69
