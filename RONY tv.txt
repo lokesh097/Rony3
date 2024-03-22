@@ -953,7 +953,7 @@ http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6624.m3u8
 https://edge2.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/lDZ4rZA.png",Eurosport 
 http://mag.trexlive.me/Michael88/Michael88/156027
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1 English 
 http://103.107.79.87:8080/CH8106SD04/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1 Hindi
 http://212.46.43.93/live/415663775/826262627/109986.ts?token=GhMNBEZcR1gRXw0NVAQABwZVAgEAAl5UVFMHVgYNAAFRBQNdUQFTWgREGBoXEhZRBVtrXgVGAgFSXw4MBRQUFhJUFzpcUEdYEVADC1xQUhZIFEBeDAEaClNRBgUCCgRUWQlJR0VdAUAJRAYIXV9XFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNUGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVQNUBxYbQwdXRQwSRU0RAhQhJRNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZXVwdRFEk=
