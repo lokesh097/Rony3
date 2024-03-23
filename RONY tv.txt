@@ -567,7 +567,7 @@ http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019880&ext
 
 
 
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549",KHUSHBOO BANGLA
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Khusboo_TV.png",KHUSHBOO BANGLA
 http://startv365.com/9794783213/6955630461/400375018
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/3Rx5tk1Q/duronto-tv.png",Rongeen Tv
 https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
