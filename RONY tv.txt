@@ -948,9 +948,9 @@ http://xtv.ooo:8080/live/T4S00515/820172/167577.ts
 http://xtv.ooo:8080/live/T4S00515/820172/167578.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/4mi15gR.jpg",Star Sports Select 2
 http://xtv.ooo:8080/live/T4S00515/820172/167579.ts
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
 http://103.107.79.87:8080/CH8106SD02/index.m3u8
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports Backup
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports Backup
 http://114.130.96.165:8080/1101/index.m3u8
 
 
