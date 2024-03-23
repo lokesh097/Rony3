@@ -672,6 +672,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/zkRAgqv.jpg",Songeet Bhojpuri
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/3Qd5fSx.png",Sony Sports 1 HD
+http://103.107.79.87:8080/CH8106SD03/tracks-v1a1/2024/03/23/07/04/43-05000.ts
 http://103.107.79.87:8080/CH8106SD03/tracks-v1a1/mono.m3u8
 http://103.107.79.87:8080/CH8106SD03/video.m3u8
 https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-1-live&e=.m3u8|User-Agent=nayeem110
