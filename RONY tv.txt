@@ -952,6 +952,8 @@ http://mag.trexlive.me/Michael88/Michael88/156027
 http://103.107.79.87:8080/CH8106SD04/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1 Hindi
 http://starshare.live:8080/live/Dennis3/Dennis3/211.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Star_Sports_1_Telugu_HD.png",Star Sports 1 Tamil
+https://vsd152.mycdn.me/hls/6112717572645.m3u8/sig/xgRm8J_7xlg/expires/1711278102758/srcIp/104.28.198.134/urls/45.136.21.88/clientType/36/srcAg/CHROME_ANDROID/mid/7548192180005/6112717572645_high/index.m3u8?p
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/B6u40R7.jpg",Star Sports 2
 http://103.107.79.87:8080/CH8107SD06/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 3
