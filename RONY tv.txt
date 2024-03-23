@@ -110,7 +110,9 @@ http://114.130.96.165:8080/1110/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",Satv
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
-http://lb2.motobd2.xyz:8080/sajjad30/83837473742/1311?token=TRAOWEBQQAIaB1BXC1pSBAcDAA0MAQELBAZfAVUHWwFUBwcKAgBSCw5HHUFLFhFSVFg9UVERDQkDAQgVE0ZLXERtD10RAkALDFwIVhpOQUNcWAcaDwIACQAECggCBQEVFEIPXRECQA4IVgVBFEAGT0FQEFZUX2hcVUZQWlQRAldDXgoVEVcMZ1wAXAJWBkENFwVAFBdaREgSCldMXV8UG1RbEktSTAcaAkcDVwBbQRsXVg1NW0dFQRIKG3t1ERQbU0oSXF1LC1dWRwtBTBFBGxdcEWdHVkRMQlVYVFRBGgMUAkQVEVUDQGcGXg1WBwBDXFoMSxcJFQkSHBtUXl1RTVlAOUlaXEACGlICVApAHg==
+http://114.130.96.165:8080/1102/index.m3u8
+EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv (Backup)
+http://103.107.79.87:8080/1102/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
 http://103.107.79.87:8080/CH8106SD02/tracks-v1a1/mono.m3u8
 http://103.107.79.87:8080/CH8106SD02/video.m3u8
