@@ -612,7 +612,7 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png",Sonic Hindi
 http://startv365.com/9794783213/6955630461/400159478
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png",Sonic Bangla
-http://103.107.79.87:8080/1301/index.m3u8
+http://114.130.96.165:8080/1303/index.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/bqz9EXY.png",WOW Kids
 http://195.26.87.217/live.ts?channelId=91169&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/vbi9liD.jpg",WOW Comedy 
