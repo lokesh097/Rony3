@@ -584,9 +584,9 @@ https://dplus.gammacdn.workers.dev/videos/113.m3u8
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/fRfZL52V/images-5-3.jpg",Kidsland
 https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png",Cartoon Network 
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network Hindi SD
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png",Cartoon Network Hindi 
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network Hindi HD
 http://startv365.com/9794783213/6955630461/400159905
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/J7Xs3Ch4/Cartoon-Network-HD-India-logo.png",Cartoon Network HD+
 http://opplex.tv:8080/live/12001200/12001200/153154.ts
