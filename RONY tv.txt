@@ -716,7 +716,9 @@ http://sansat.net:25461/live/02048081503032/02048081503032/100667.ts
 http://114.130.96.165:8080/1102/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv HD BDIX 4
 http://103.107.79.87:8080/1102/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports Backup 3
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports Backup 3
+http://176.119.29.52/live/00:1A:79:D5:3F:0C/0C219CAACF826/48010.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports Backup 4
 http://103.107.79.87:8080/CH8106SD02/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports Backup
 http://114.130.96.165:8080/1101/index.m3u8
