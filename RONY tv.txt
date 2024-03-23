@@ -243,10 +243,9 @@ http://103.107.79.87:8080/CH8110SD03/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/fLbSDDPN/Star-Jalsha-logo-2023.png",Star Jolsha
 http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9F9RWxLr/images-5-26.jpg"group-title="KOLKATA",Star Jalsha HD
-http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
+http://103.107.79.87:8080/CH8110SD01/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/ItU5C2m.png",Colors Bangla 
-http://103.107.79.87:8080/CH8110SD05/tracks-v1a1/mono.m3u8
-http://103.107.79.87:8080/CH8110SD05/video.m3u8
+http://103.107.79.87:8080/CH8110SD05/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/0NVrthyH/Colors-Bangla-HD-prelaunch-2016.png",Colors Bangla HD
 http://pgplex.net:8080/ColorsBangla/index.m3u8
 http://abcnew.site:8880/live/3ca7043n04/asfde32e2/57882.ts
@@ -263,12 +262,11 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100696
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-aath-live
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/4dMbmBjn/images-5-27.jpg",Jalsha Movies 
-http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
+http://103.107.79.87:8080/CH8110SD02/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
-http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
+http://103.107.79.87:8080/CH8110SD02/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
-http://103.107.79.87:8080/CH8109SD04/tracks-v1a1/mono.m3u8
-http://103.107.79.87:8080/CH8109SD04/video.m3u8
+http://103.107.79.87:8080/CH8109SD04/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/bvV1BmyL/Enterr10-Bangla.jpg",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/d1vGpCS.jpg",Tara Bangla Cinema 
