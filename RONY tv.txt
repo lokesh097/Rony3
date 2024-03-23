@@ -106,7 +106,7 @@ http://cdn01.palki.tv/live/AsianTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/ncJhpngQ/Nexus-Television-Logo.png",Nexus Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/VLmm2D0q/images-5-20.jpg",Gaan Bangla
-http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
+http://114.130.96.165:8080/1110/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",Satv
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
