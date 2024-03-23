@@ -575,6 +575,11 @@ http://startv365.com/9794783213/6955630461/400375018
 https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/440px-Disney_channel_2019.png",Disney HD
 http://103.131.214.129:9985/stream/channelid/952379108?ticket=F9788485A4BE9B20D5C2BB2A9C176B113D6E8AB6&profile=pass
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/440px-Disney_channel_2019.png",Disney HD (Backup)
+http://humiptv.live:8080/live/wasim/wasim1234/19741.ts
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/440px-Disney_channel_2019.png",Disney HD (BDIX)
+http://xtv.ooo:8080/03155515900TG/03155515900TG/167551
+
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/tJT6S0Nz/images-1-10.png",Disney Juniur
 http://abcnew.site:8880/live/3ca7043n04/asfde32e2/59239.ts
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHmjZ6y02kgFwJAtBPRk3iqJIF2BaGnaYbKw&usqp=CAU",Nickelodeon 
@@ -649,10 +654,6 @@ http://t-tvpremium.xyz:8880/sajjad30/83837473742/14394
 http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/zf6GvgkK/73e25ee55303d44a1a979b090cdf398269af3ad86cb9ecae416acacdcd99d9a8.png",Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney HD (Backup)
-http://humiptv.live:8080/live/wasim/wasim1234/19741.ts
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney HD (BDIX)
-http://xtv.ooo:8080/03155515900TG/03155515900TG/167551
 
 
 
