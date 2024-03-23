@@ -265,10 +265,9 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100696
 https://test.bongodrive.pw/bdix.m3u8?ac=1409
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/4dMbmBjn/images-5-27.jpg",Jalsha Movies 
-
+http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
-http://176.119.29.52/live.ts?channelId=117&deviceMac=00:1A:79:0A:CA:4F
-http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7970&deviceMac=00:1A:79:31:34:35
+http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
 http://pgplex.net:8080/ZeeBanglaCinema/index.m3u8
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100702
