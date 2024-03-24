@@ -371,9 +371,9 @@ http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3
  http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96170
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Zee_Marathi_2023_logo.png",Zee Marathi HD
 http://103.120.172.74:1040/
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg", & Tv
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png", & Tv
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg", & Tv HD
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png", & Tv HD
 http://xtv.ooo:8080/564587696/474585694/221253
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png",& Picture
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
