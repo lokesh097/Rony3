@@ -352,7 +352,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",Star Gold
 http://lifetvbd.xyz:8080/live/939374737/73928472773/3639.ts
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png",Star Gold HD
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 http://xtv.ooo:8080/live/T4S00515/820172/109959.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png",Star Gold 2
