@@ -425,7 +425,7 @@ http://xtv.ooo:8080/564587696/474585694/206315
 http://xtv.ooo:8080/live/T4S00515/820172/112983.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/Clzyj12.jpg",Colors Cineplex Superhit
 http://xtv.ooo:8080/live/T4S00515/820172/66199.ts
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png",Zee Cinema
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/29/%E0%A6%9C%E0%A6%BF_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Zee Cinema
 http://sansat.net:25461/live/02048081503032/02048081503032/100805.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png",Zee Cinema HD
 http://xtv.ooo:8080/live/T4S00515/820172/206307.ts
