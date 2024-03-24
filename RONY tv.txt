@@ -443,7 +443,7 @@ http://sansat.net:25461/live/02048081503032/02048081503032/96260.ts
 http://sansat.net:25461/live/02048081503032/02048081503032/95882.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2062caa2-8b1e-476d-b86a-f80779bdc3ea/f2f89952-186c-41d7-ad6a-e364741ef5a3.png",Zee Bollywood
 http://195.26.87.217/live.ts?channelId=210&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/v83qjZB8/zee-action.png",Zee Action
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2b43c88f-23c6-4168-9f77-f1065775df0a/8c8f27da-ca34-4e9a-921e-a28fb03b8d41.png",Zee Action
 http://xtv.ooo:8080/live/T4S00515/820172/66191.ts
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/dd8VLUN.jpg",Bollywood Classic
