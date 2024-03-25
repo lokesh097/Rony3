@@ -360,10 +360,8 @@ http://xtv.ooo:8080/live/T4S00515/820172/109959.ts
 http://xtv.ooo:8080/live/T4S00515/820172/106133.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Star_Gold_Thrills_logo.png",Star Gold THRILLS
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155996&extension=ts
-
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Star_Gold_Thrills_logo.png",Star Gold THRILLS
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Star_Gold_Thrills_logo.png",Star Gold THRILLS Backup
 http://xtv.ooo:8080/live/T4S00515/820172/66186.ts
-
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ktgkqwj.png",Star Gold Select HD
 http://51.159.97.122/adnankb2006/86057314/221257?token=GhMNBEZcR1gRUlUNUAAHAlAHBAcEVVsDAQdUBgIBAldYBAYEB1BQVApEGBoXEhZRBVtrXgVGAgJQVwUBBBQUFhJUFzpcUEdYEVQEAVdeXBZIFEBeDAEaClNRBgUADAZSUgZJR0VdAUAJRAUMU19RA1YUGBUEHExVEAhWWGxcUxUIUgBHD1oQDl9KFlcKOQBRCVdaU0NeGgBAShVdQEgUWQ9ECQkZFgcLRxRVTAFEXhZVDwwOQ0gaUw0TWUBBQRRZQ3MhRxkWABpHA1pLDQkKFl4UQERDSBpZETlFUUBMRAYAXAAXFw5HUhFKFlUFHjtXC1haUgIQUV8MFRUOEQkUT0NcCgtcQAoQbBZdXEZcRgVVDgwGUl0aTQ==
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Star_Gold_Romance_logo.png",Star Gold Romance
