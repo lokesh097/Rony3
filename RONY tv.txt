@@ -362,7 +362,7 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155996&exten
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Star_Gold_Thrills_logo.png",Star Gold THRILLS x ROMANCE Backup
 http://xtv.ooo:8080/live/T4S00515/820172/66186.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ktgkqwj.png",Star Gold Select HD
-http://xtv.ooo:8080/adnankb2006/86057314/221257.ts
+http://lifetvbd.xyz:8080/live/939374737/73928472773/107.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Star_Gold_Romance_logo.png",Star Gold Romance
 http://mag.trexlive.me:80/Michael88/Michael88/156033
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",Star Plus SD
