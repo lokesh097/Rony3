@@ -360,12 +360,14 @@ http://xtv.ooo:8080/live/T4S00515/820172/109959.ts
 http://xtv.ooo:8080/live/T4S00515/820172/106133.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Star_Gold_Thrills_logo.png",Star Gold THRILLS
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155996&extension=ts
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Star_Gold_Thrills_logo.png",Star Gold THRILLS Backup
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Star_Gold_Thrills_logo.png",Star Gold THRILLS x ROMANCE Backup
 http://xtv.ooo:8080/live/T4S00515/820172/66186.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ktgkqwj.png",Star Gold Select HD
 http://51.159.97.122/adnankb2006/86057314/221257?token=GhMNBEZcR1gRUlUNUAAHAlAHBAcEVVsDAQdUBgIBAldYBAYEB1BQVApEGBoXEhZRBVtrXgVGAgJQVwUBBBQUFhJUFzpcUEdYEVQEAVdeXBZIFEBeDAEaClNRBgUADAZSUgZJR0VdAUAJRAUMU19RA1YUGBUEHExVEAhWWGxcUxUIUgBHD1oQDl9KFlcKOQBRCVdaU0NeGgBAShVdQEgUWQ9ECQkZFgcLRxRVTAFEXhZVDwwOQ0gaUw0TWUBBQRRZQ3MhRxkWABpHA1pLDQkKFl4UQERDSBpZETlFUUBMRAYAXAAXFw5HUhFKFlUFHjtXC1haUgIQUV8MFRUOEQkUT0NcCgtcQAoQbBZdXEZcRgVVDgwGUl0aTQ==
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Star_Gold_Romance_logo.png",Star Gold Romance
 http://mag.trexlive.me:80/Michael88/Michael88/156033
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzbtCvPZWbrvcQjdvN01UJq5wiqPe_4GXgK8rg-N0X9EKRPbEi4s9-njJ&s=10",Star Plus HD
+http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/SyDPLgu.png",Star Ustav
 http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/OujQ9gL.png",Zee Tv
@@ -492,11 +494,8 @@ http://xtv.ooo:8080/6199216/619002/351026
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/tUI0Upe.png",BBC America 
 https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/0RmvxOZ.png",Best Action 
-
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/JU1wlwE.png",CINEMAX
 http://xtv.ooo:8080/live/T4S00515/820172/348415.ts
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzbtCvPZWbrvcQjdvN01UJq5wiqPe_4GXgK8rg-N0X9EKRPbEi4s9-njJ&s=10",Star Plus HD
-http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.postimg.cc/65J7LPtB/download-3.png",MOVIE SPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/1M0jHid.png",Action Hollywood Movie 
