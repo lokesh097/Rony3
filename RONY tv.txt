@@ -467,6 +467,34 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/QQX9A0m.png",Star Bharat HD
 http://xtv.ooo:8080/564587696/474585694/109951
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ahKkY3Z.png",B4U Movie
+http://xtv.ooo:8080/564587696/474585694/104201
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/XG6VhVF.jpg",B4U Kadak
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/J1abUHL.jpg",BFLIX Movie
+http://xtv.ooo:8080/live/T4S00515/820172/104190.ts
+#EXTINF:-1 tvg-id="" tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="INDIAN", DHINCHAAK
+http://xtv.ooo:8080/live/T4S00515/820172/374980.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="INDIAN", GOLDMINES
+http://xtv.ooo:8080/live/T4S00515/820172/112972.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="INDIAN", GOLDMINES MOVIES
+http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=157158&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="INDIAN", GOLDMINES BOLLYWOOD
+http://xtv.ooo:8080/live/T4S00515/820172/112973.ts
+#EXTINF:-1 tvg-id="" tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="INDIAN", DHAMAKA MOVIES
+http://xtv.ooo:8080/live/T4S00515/820172/66184.ts
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/i1UkI3B.jpg",South Station
+https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/New_logo_of_DD_National.jpg/640px-New_logo_of_DD_National.jpg",DD National 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/d3d05Wpm/IMG-20240227-122245-600.jpg",Ishara Tv
+https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/7P3dsHgc/Nazara-TV-logo.png",Nazara tv
+https://epiconvh.s.llnwi.net/nazara/master.m3u8
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/hjvLZCLy/images-1-4.png",Movies Active
+http://xtv.ooo:8080/live/T4S00515/820172/206276.ts
+
+
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg",Star Movies
 http://xtv.ooo:8080/live/T4S00515/820172/348059.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg",Star Movies HD
@@ -501,32 +529,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/1M0jHid.png",Action Hollywood Movie 
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ahKkY3Z.png",B4U Movie
-http://xtv.ooo:8080/564587696/474585694/104201
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/XG6VhVF.jpg",B4U Kadak
-https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/J1abUHL.jpg",BFLIX Movie
-http://xtv.ooo:8080/live/T4S00515/820172/104190.ts
-#EXTINF:-1 tvg-id="" tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="INDIAN", DHINCHAAK
-http://xtv.ooo:8080/live/T4S00515/820172/374980.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="INDIAN", GOLDMINES
-http://xtv.ooo:8080/live/T4S00515/820172/112972.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="INDIAN", GOLDMINES MOVIES
-http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=157158&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="INDIAN", GOLDMINES BOLLYWOOD
-http://xtv.ooo:8080/live/T4S00515/820172/112973.ts
-#EXTINF:-1 tvg-id="" tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="INDIAN", DHAMAKA MOVIES
-http://xtv.ooo:8080/live/T4S00515/820172/66184.ts
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/i1UkI3B.jpg",South Station
-https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/New_logo_of_DD_National.jpg/640px-New_logo_of_DD_National.jpg",DD National 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/d3d05Wpm/IMG-20240227-122245-600.jpg",Ishara Tv
-https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/7P3dsHgc/Nazara-TV-logo.png",Nazara tv
-https://epiconvh.s.llnwi.net/nazara/master.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/hjvLZCLy/images-1-4.png",Movies Active
-http://xtv.ooo:8080/live/T4S00515/820172/206276.ts
+
 
 #EXTINF:-1 group-title="BHOJPURI" tvg-logo="https://i.imgur.com/D7gb7ri.jpg",Bhojpuri Cinema 
 http://xtv.ooo:8080/live/T4S00515/820172/269091.ts
