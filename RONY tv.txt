@@ -369,11 +369,13 @@ http://mag.trexlive.me:80/Michael88/Michael88/156033
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzbtCvPZWbrvcQjdvN01UJq5wiqPe_4GXgK8rg-N0X9EKRPbEi4s9-njJ&s=10",Star Plus HD
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/SyDPLgu.png",Star Ustav
-http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=156163&extension=ts
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/26KXM7GJ/images-6-3.jpg",Star Ustav Movies
+http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=1112131&extension=ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/OujQ9gL.png",Zee Tv
- http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100803
+ http://103.120.172.74:1140/
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/OujQ9gL.png",Zee Tv HD
- http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96170
+ https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=zee-tv-hd
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Zee_Marathi_2023_logo.png",Zee Marathi HD
 http://103.120.172.74:1040/
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png", & Tv
