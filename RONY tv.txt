@@ -351,8 +351,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold HD (BDIX)
-http://51.159.212.144/live/415663775/826262627/66177.m3u8?token=GhMNBEZcR1gRUg1eBlJSAVIOVQ9YXQ0IBABSBAsKBAZUCVEEVwMDVlBEGBoXEhZRBVtrXgVGAgZUVwADHxpDEARDOgxRFl9ABVEHAFJQRhhGQl1aBEYCAE5ER11XGgxBWQlcVxcYRwdLElFKCgcIawBTQl4CARoKDBNbWB8aWQ0+VQAIVFoBQAlEBBpIRA1HFBQOWRQIVBxABF5AQVlCBkMLR1QMB1FAH0RXVxEIEEYdFA4VIyAaHEADT0BWVkUKDl9HXxdZVhcLRBgaDRU7RgFFQEUEBVVVEEQNFgMaGkEMUB06VlsLDFYFQFELCBcWXhQFFU1GVV8MD0NbQWdGCgUTX0cEBVxUERs=
-
+http://xtv.ooo:8080/live/415663775/826262627/66177.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 http://xtv.ooo:8080/live/T4S00515/820172/109959.ts
@@ -419,7 +418,7 @@ http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/FOgubQl.jpg",Sony Pal
 http://xtv.ooo:8080/6199216/619002/104192
 
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors Hd
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors HD
 http://xtv.ooo:8080/live/T4S00515/820172/221254.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/h86708M.png",Colors Rishtey
 http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
