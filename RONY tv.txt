@@ -350,7 +350,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/270518.ts
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
 
 
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",Star Gold
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold HD BDIX
 http://lifetvbd.xyz:8080/live/939374737/73928472773/3639.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
@@ -492,7 +492,7 @@ https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/62407
 
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/JU1wlwE.png",CINEMAX
 http://xtv.ooo:8080/live/T4S00515/820172/348415.ts
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/RVCShL2Y/He7ebQT.jpg",Star Plus Hd
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzbtCvPZWbrvcQjdvN01UJq5wiqPe_4GXgK8rg-N0X9EKRPbEi4s9-njJ&s=10",Star Plus HD
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.postimg.cc/65J7LPtB/download-3.png",MOVIE SPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
