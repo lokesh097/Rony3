@@ -243,7 +243,7 @@ http://103.107.79.87:8080/CH8110SD03/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/F0dmFko.jpg",Zee Bangla HD
 http://103.107.79.87:8080/CH8110SD03/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/fLbSDDPN/Star-Jalsha-logo-2023.png",Star Jolsha
-http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
+http://114.130.96.165:8080/1406/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9F9RWxLr/images-5-26.jpg"group-title="KOLKATA",Star Jalsha HD
 http://103.107.79.87:8080/CH8110SD01/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/ItU5C2m.png",Colors Bangla 
