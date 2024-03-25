@@ -424,7 +424,7 @@ http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/FOgubQl.jpg",Sony Pal
 http://xtv.ooo:8080/6199216/619002/104192
 
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png",Colors
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBlLA6lBJF4GlQEnsyZxQK6eDn0Or7kMqBHWZrAeVmtvhF_-QzjOmeEQZw&s=10",Colors Tv
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=colors-asia
 
 
