@@ -498,6 +498,7 @@ http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/1M0jHid.png",Action Hollywood Movie 
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ahKkY3Z.png",B4U Movie
 http://xtv.ooo:8080/564587696/474585694/104201
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/XG6VhVF.jpg",B4U Kadak
@@ -516,7 +517,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/112973.ts
 http://xtv.ooo:8080/live/T4S00515/820172/66184.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/i1UkI3B.jpg",South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg",DD National 
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/New_logo_of_DD_National.jpg/640px-New_logo_of_DD_National.jpg",DD National 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/d3d05Wpm/IMG-20240227-122245-600.jpg",Ishara Tv
 https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
@@ -524,6 +525,7 @@ https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
 https://epiconvh.s.llnwi.net/nazara/master.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/hjvLZCLy/images-1-4.png",Movies Active
 http://xtv.ooo:8080/live/T4S00515/820172/206276.ts
+
 #EXTINF:-1 group-title="BHOJPURI" tvg-logo="https://i.imgur.com/D7gb7ri.jpg",Bhojpuri Cinema 
 http://xtv.ooo:8080/live/T4S00515/820172/269091.ts
 #EXTINF:-1 group-title="BHOJPURI" tvg-logo="https://i.imgur.com/DgjnVcY.png",Dhamaal
