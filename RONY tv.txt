@@ -109,7 +109,7 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/VLmm2D0q/images-5-20.jpg",Gaan Bangla
 http://114.130.96.165:8080/1110/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",Satv
-http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
+https://tv5.hoichoi24.com/1133/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv HD BDIX 1
 http://114.130.96.165:8080/1102/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv HD BDIX 2
