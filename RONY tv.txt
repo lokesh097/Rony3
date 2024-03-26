@@ -687,11 +687,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhoj
 
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Toffee Live
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEa52fJM2iIWOdWDKmwIxu2D1B1CGTMEOL-JVrQ_XSC6UuDTlGNVmQ_HFB&s=10",Toffee Live
 http://lifetvbd.xyz:8080/live/939374737/73928472773/3595.ts
-
-
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv HD BDIX 3
 http://114.130.96.165:8080/1102/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv HD BDIX 4
