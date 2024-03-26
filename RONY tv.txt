@@ -693,6 +693,8 @@ http://lifetvbd.xyz:8080/live/939374737/73928472773/3595.ts
 http://114.130.96.165:8080/1102/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv HD BDIX 4
 http://103.107.79.87:8080/1102/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports HD Backup 5
+https://tv5.hoichoi24.com/1101/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports HD Backup 6
 http://114.130.96.165:8080/1101/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports Backup 4
