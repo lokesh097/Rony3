@@ -1047,11 +1047,12 @@ http://server1.dhakamovie.com/Movies/Bollywood/2023/Animal%20(2023)/Animal.mp4
 
 
 
-#EXTINF:-1 group-title="ANIME SERIES",Naruto Shipuden
+#EXTINF:-1 group-title=" JADOO IP ANIME SERIES",Naruto Shippuden
 
-#EXTINF:-1 group-title="ANIME SERIES",Naruto Shipuden E1
+#EXTINF:-1 group-title="ANIME SERIES",Naruto Shippuden E1
 http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto-Shipp%C3%BBden%20%28TV%20Cartoon%202007%E2%80%932017%29%20720p%20%5BDual%20Audio%5D/Season%2001%20%5BMulti%20Audio%5D%201080p/%5BToonworld4all%5D%20Naruto%20Shippuden%20-%20001%20%5B1080p%20BD%20x265%2010bit%20Multi%20Audio%5D%20DD2.0%20ESub.mkv
-
+#EXTINF:-1 group-title="ANIME SERIES",Naruto Shippuden E2
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto-Shipp%C3%BBden%20%28TV%20Cartoon%202007%E2%80%932017%29%20720p%20%5BDual%20Audio%5D/Season%2001%20%5BMulti%20Audio%5D%201080p/%5BToonworld4all%5D%20Naruto%20Shippuden%20-%20002%20%5B1080p%20BD%20x265%2010bit%20Multi%20Audio%5D%20DD2.0%20ESub.mkv
 
 
 
