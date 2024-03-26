@@ -706,33 +706,7 @@ http://xtv.ooo:8080/shahz18/18usman/167590
 https://bongohub.pw/api/hoichoi.m3u8?id=1101
 https://bongohub.pw/api/tsports.php?m3u8=https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/L5t168Z7/images-5-13.jpg",Bangladesh Vs SirLanka 3
-http://xtv.ooo:8080/live/T4S00515/820172/354301.ts
-https://stvlk.live/live/eml079n7ui3ytg1c6x4/index.m3u8
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/L5t168Z7/images-5-13.jpg",Bangladesh Vs SirLanka 4
-https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/L5t168Z7/images-5-13.jpg",Bangladesh Vs SirLanka 5
-http://xtv.ooo:8080/live/T4S00515/820172/347333.ts
-https://bdsajib@bongohub.pw/api/toffe.m3u8?m3u8=https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
-
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/rfSwNjd.jpg",ACC MEN'S T20I CHALLENGER CUP-Indonesia vs Thailand
-https://cdn.sajeeb.online/hotflixbd/f1/index.m3u8
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/j69yOgM.jpg",U19 Live Server - PAK-U19 vs AU-U19
-http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/mZ5pg4H9/Women-s-Premier-League-svg.png",woman's Premier League 
-https://live.himel-himu@1rdk.short.gy/JioCinema/WPL-2024/Eng-4k/Himel-Op.m3u8
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/BOBdv0P.png",PSL 2024
-http://xtv.ooo:8080/live/T4S00515/820172/220061.ts
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/BOBdv0P.png",PSL 2024
-http://xtv.ooo:8080/live/T4S00515/820172/220063.ts
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/BOBdv0P.png",PSL 2024
-http://xtv.ooo:8080/87658765/91747291/219689
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/mZ5pg4H9/Women-s-Premier-League-svg.png",woman's Premier League 
-https://live.himel-himu@1rdk.short.gy/JioCinema/WPL-2024/Hin-4k/Himel-Op.m3u8
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/qBSXzJ36/images-30.png",Indian Super League
-http://sansat.net:25461/live/02048081503032/02048081503032/100667.ts
-
-
-
+ht
 
 
 
