@@ -1047,8 +1047,8 @@ http://server1.dhakamovie.com/Movies/Bollywood/2023/Animal%20(2023)/Animal.mp4
 
 
 
-#EXTINF:-1 group-title="RONY MOVIES",baham kal
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/Animal%20%282023%29%201080p/Animal%20%282023%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="RONY MOVIES",Naruto Shipuden
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto-Shipp%C3%BBden%20%28TV%20Cartoon%202007%E2%80%932017%29%20720p%20%5BDual%20Audio%5D/Season%2001%20%5BMulti%20Audio%5D%201080p/
 
 
 
