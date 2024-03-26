@@ -1048,7 +1048,7 @@ http://server1.dhakamovie.com/Movies/Bollywood/2023/Animal%20(2023)/Animal.mp4
 
 
 #EXTINF:-1 group-title="RONY MOVIES",baham kal
-https://5ydssahmsa.sw-cdnstreamwish.com/hls2/01/03413/,vw63rq8rg6zq_x,lang/eng/vw63rq8rg6zq_eng,.urlset/master.m3u8?t=Qsc6qlGDxDdLrPcaNp4j4Hp1rWFTey9Qd44G7pKoKL4&s=1711449905&e=129600&f=17069822&srv=dcdxsqfmj7z5tynr&i=0.4&sp=500&p1=dcdxsqfmj7z5tynr&p2=dcdxsqfmj7z5tynr&asn=131464
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/Animal%20%282023%29%201080p/Animal%20%282023%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 
 
 
